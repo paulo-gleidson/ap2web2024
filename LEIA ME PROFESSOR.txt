@@ -1,0 +1,18 @@
+NOMES: PAULO GLEIDSON LEITÃO SAMPAIO - MATRÍCULA 514317,
+MARCELO AUGUSTO GOMES DE SOUZA.
+
+----------------------------------------------------------------------------------------------
+Professor, usamos uma base de dados genérica JSON parecida com a que o senhor usou nas aulas
+
+Não conseguimos implementar o EDITAR do CRUD no menu Dropdown no frontend, mas no backend sim
+                                                                    l-> apareceu um problema de rota
+                                                                    que não consegui resolver
+
+Usei:
+para o FRONTEND
+-MaterialUI (por algum motivo tive problemas com o Bootstrap, sempre aparece muitos warnings e acontece erros com ele
+            e por isso usamos o MaterialUI ;) )
+e para o BACKEND
+-Express ->  manipula os dados dos alunos armazenados em um arquivo JSON (aquele que falei no começo).
+As operações são realizadas através de ENDPOINTS(que são URLs específicas em uma API que permitem que um cliente envie 
+solicitações ao servidor), e o CORS pra permitir requisições do frontend

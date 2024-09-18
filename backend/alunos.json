@@ -1,0 +1,67 @@
+[
+  {
+    "nome": "Paulo",
+    "curso": "SI",
+    "IRA": 7.5
+  },
+  {
+    "nome": "Junior",
+    "curso": "SI",
+    "IRA": 6.3
+  },
+  {
+    "nome": "Maria",
+    "curso": "ES",
+    "IRA": 9.4
+  },
+  {
+    "nome": "Pedro",
+    "curso": "EC",
+    "IRA": 5.6
+  },
+  {
+    "nome": "Caio",
+    "curso": "CC",
+    "IRA": 8.2
+  },
+  {
+    "nome": "Lyan",
+    "curso": "CC",
+    "IRA": 8.2
+  },
+  {
+    "nome": "Bruno",
+    "curso": "ES",
+    "IRA": 7.9
+  },
+  {
+    "nome": "Ribamar",
+    "curso": "SI",
+    "IRA": 6.9
+  },
+  {
+    "nome": "Lucas",
+    "curso": "ES",
+    "IRA": 9.8
+  },
+  {
+    "nome": "Daniela",
+    "curso": "CC",
+    "IRA": 6.3
+  },
+  {
+    "nome": "Romulo",
+    "curso": "CC",
+    "IRA": 4.2
+  },
+  {
+    "nome": "Igor",
+    "curso": "EC",
+    "IRA": 9.9
+  },
+  {
+    "nome": "Yan",
+    "curso": "CC",
+    "IRA": 6.3
+  }
+]
